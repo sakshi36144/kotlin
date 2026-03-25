@@ -1,8 +1,8 @@
-
+package `when`
 
 // write a Kotlin program to print day of week name using when  case
 //import kotlin.io.println
-//fun main() {
+//fun when.If_else.main() {
 //    print("Enter the day: ")
 //    val day= readln().toInt()
 //    when(day){

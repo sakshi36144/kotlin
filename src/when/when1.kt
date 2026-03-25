@@ -1,4 +1,6 @@
-//fun main(){
+package `when`
+
+//fun when.If_else.main(){
 //    val char= 'A'
 //    when {
 //        char >='A' && char <= 'Z'->println("alp")

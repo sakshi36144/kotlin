@@ -47,7 +47,7 @@ Primitive in Kotlin
     /*
 
 
-fun main(args: Array<String>) {
+fun when.If_else.main(args: Array<String>) {
 
     val age:Int = 1 // immutable
 //    age = 19

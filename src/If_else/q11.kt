@@ -1,3 +1,5 @@
+package If_else
+
 //Write a Kotlin program to input week number and print week day.
 fun main() {
     print("Enter week number (1-7): ")
