@@ -32,3 +32,12 @@ fun main(){
     }
     println(week)
 }
+
+
+fun main2(){
+    val char ='a'
+    when(char){
+        'a','e','i','o','u'->println("vowel")
+        else -> println("consonant")
+    }
+}

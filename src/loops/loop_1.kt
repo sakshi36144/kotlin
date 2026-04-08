@@ -1,9 +1,9 @@
 package loops
 
 fun main() {
-//    for (i in 1..100 step 2) {
-//        println(i)
-//    }
+    for (i in 1..100 step 2) {
+        println(i)
+    }
 
 //while
 //    var a = 1
@@ -13,9 +13,9 @@ fun main() {
 //    }
 
 //do while loops
-var b= 1;
-do{
-    println(b)
-    b++;
-}while(b<=100)
+//var b= 1;
+//do{
+//    println(b)
+//    b++;
+//}while(b<=100)
 }
